@@ -1,0 +1,14 @@
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\bin\Debug\datddps03704.exe.config
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\bin\Debug\datddps03704.exe
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\bin\Debug\datddps03704.pdb
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\bin\Debug\datddps03704.xml
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.Resources.resources
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.vbproj.GenerateResource.Cache
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.exe
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.xml
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.pdb
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.frmchitiet.resources
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.frmdangnhap.resources
+c:\users\dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.frmthemsv.resources
+C:\Users\Dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.vbprojResolveAssemblyReference.cache
+C:\Users\Dat\documents\visual studio 2013\Projects\datddps03704\datddps03704\obj\Debug\datddps03704.frmdangki.resources
